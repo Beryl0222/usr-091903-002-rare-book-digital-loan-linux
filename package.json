@@ -1,0 +1,7 @@
+{
+  "name": "rare-book-digital-loan",
+  "private": true,
+  "scripts": {
+    "test": "node test_service.js"
+  }
+}
